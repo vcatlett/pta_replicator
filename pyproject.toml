@@ -6,14 +6,19 @@ authors = [{name="Bence Becsy"}, {name="Aaron Johnson"}]
 readme = "README.md"
 
 dependencies = [
-             "pint-pulsar (>=0.9.8,<2.0.0)",
-             "numpy (>=1.26,<3.0.0)",
+             "pint-pulsar>=0.9.8,<2.0.0",
+             "numpy>=1.26,<3.0.0",
              "astropy (>=6.0.0,<8.0.0)",
              "scipy (>=1.12.0,<2.0.0)",
              "ephem (>=4.1.5,<5.0.0)",
              "numba (>=0.59.0)",
-             "matplotlib (>=3.8.2,<4.0.0)",
+             "matplotlib>=3.8.2,<4.0.0",
              "holodeck-gw (>=1.0,<2.0.0)",
+             "python-dotenv>=1.2.2",
+             "pathlib>=1.0.1",
+             "glob2>=0.7",
+             "tqdm>=4.68.3",
+             "pandas>=2.3.3",
 ]
 
 [build-system]
