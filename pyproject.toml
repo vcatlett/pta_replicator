@@ -1,8 +1,8 @@
 [project]
 name = "pta_replicator"
-version = "0.1.0"
+version = "1.0.0"
 description = "Simulate PTA datasets"
-authors = [{name="Bence Becsy"}, {name="Aaron Johnson"}]
+authors = [{name="Victoria Catlett"}, {name="Bence Becsy"}, {name="Jeffrey Hazboun"}, {name="Aaron Johnson"}]
 readme = "README.md"
 
 dependencies = [

@@ -10,6 +10,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
+   getting_started/index
    for_developers/index
 
 Indices and tables
