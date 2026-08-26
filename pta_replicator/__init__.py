@@ -7,12 +7,12 @@ all = ["version"]
 
 def version():
     """
-    Version of the code
+    Version of the pta_replicator package
 
     Returns
     -------
     v : str
-        The current version of SDFITS
+        The current version of pta_replicator
     """
     v = __version__
     return v
