@@ -41,10 +41,14 @@ extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.ifconfig",
     "sphinx.ext.viewcode",
+    "sphinxcontrib.bibtex",
     "sphinxcontrib.mermaid",
     "numpydoc",
     "sphinx_inline_tabs",
 ]
+
+bibtex_bibfiles = ["references/references.bib"]
+bibtex_reference_style = "author_year"
 
 numpydoc_show_class_members = True
 autosummary_generate = True

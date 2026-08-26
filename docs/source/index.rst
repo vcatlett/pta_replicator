@@ -10,8 +10,11 @@ Contents
 .. toctree::
    :maxdepth: 2
 
+   background/index
    getting_started/index
+   modules/index
    for_developers/index
+   references/index
 
 Indices and tables
 ==================
